@@ -1,0 +1,26 @@
+{
+  "name": "category-clusters",
+  "version": "0.0.1",
+  "description": "Cluster topics mentioned in an audio file over time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmtracey/QuickBlobs.git"
+  },
+  "keywords": [
+    "clustering"
+  ],
+  "author": "Sean M. Tracey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmtracey/QuickBlobs/issues"
+  },
+  "homepage": "https://github.com/seanmtracey/QuickBlobs#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "dotenv": "^6.0.0"
+  }
+}
